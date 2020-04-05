@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aahan/LSQUIC-GIT-DEMO/lsquic
+CMAKE_SOURCE_DIR = /home/aahan/MY-GIT-REPO/NEW/lsquic
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aahan/LSQUIC-GIT-DEMO/lsquic
+CMAKE_BINARY_DIR = /home/aahan/MY-GIT-REPO/NEW/lsquic
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -91,9 +91,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

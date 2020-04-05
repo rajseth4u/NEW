@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_senhist.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_senhist.c
 assert.h
 -
 stdio.h
@@ -18,13 +18,13 @@ string.h
 inttypes.h
 -
 lsquic_int_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_int_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_int_types.h
 lsquic_senhist.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_senhist.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_senhist.h
 lsquic_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_types.h
 lsquic_logger.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_logger.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_logger.h
 
 include/lsquic_types.h
 stdint.h

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_engine_ctor.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_engine_ctor.c
 assert.h
 -
 stdlib.h
@@ -14,7 +14,7 @@ stdlib.h
 string.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 
 include/lsquic.h
 stdarg.h

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_alt_svc_ver.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_alt_svc_ver.c
 assert.h
 -
 string.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 
 include/lsquic.h
 stdarg.h

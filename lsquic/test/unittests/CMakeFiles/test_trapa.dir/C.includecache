@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_trapa.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_trapa.c
 assert.h
 -
 stddef.h
@@ -22,15 +22,15 @@ string.h
 unistd.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 lsquic_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_types.h
 lsquic_sizes.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_sizes.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_sizes.h
 lsquic_logger.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_logger.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_logger.h
 lsquic_trans_params.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_trans_params.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_trans_params.h
 
 include/lsquic.h
 stdarg.h

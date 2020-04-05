@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_malo.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/CMakeFiles/test_malo_pooled.dir/__/__/src/liblsquic/lsquic_malo.c.o"
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_malo.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/CMakeFiles/test_malo_pooled.dir/test_malo.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_malo.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/CMakeFiles/test_malo_pooled.dir/__/__/src/liblsquic/lsquic_malo.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_malo.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/CMakeFiles/test_malo_pooled.dir/test_malo.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

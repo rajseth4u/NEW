@@ -9,15 +9,6 @@ CMakeFiles/echo_client.dir/test/echo_client.c.o: test/test_config.h
 CMakeFiles/echo_client.dir/test/echo_client.c.o: include/lsquic.h
 CMakeFiles/echo_client.dir/test/echo_client.c.o: include/lsquic_types.h
 
-CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_hash.h
-CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_int_types.h
-CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_logger.h
-CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_util.h
-CMakeFiles/echo_client.dir/test/prog.c.o: test/prog.c
-CMakeFiles/echo_client.dir/test/prog.c.o: test/prog.h
-CMakeFiles/echo_client.dir/test/prog.c.o: test/test_cert.h
-CMakeFiles/echo_client.dir/test/prog.c.o: test/test_common.h
-CMakeFiles/echo_client.dir/test/prog.c.o: test/test_config.h
 CMakeFiles/echo_client.dir/test/prog.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/aead.h
 CMakeFiles/echo_client.dir/test/prog.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/asn1.h
 CMakeFiles/echo_client.dir/test/prog.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/base.h
@@ -60,13 +51,18 @@ CMakeFiles/echo_client.dir/test/prog.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learnin
 CMakeFiles/echo_client.dir/test/prog.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/type_check.h
 CMakeFiles/echo_client.dir/test/prog.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/x509.h
 CMakeFiles/echo_client.dir/test/prog.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/x509_vfy.h
+CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_hash.h
+CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_int_types.h
+CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_logger.h
+CMakeFiles/echo_client.dir/test/prog.c.o: src/liblsquic/lsquic_util.h
+CMakeFiles/echo_client.dir/test/prog.c.o: test/prog.c
+CMakeFiles/echo_client.dir/test/prog.c.o: test/prog.h
+CMakeFiles/echo_client.dir/test/prog.c.o: test/test_cert.h
+CMakeFiles/echo_client.dir/test/prog.c.o: test/test_common.h
+CMakeFiles/echo_client.dir/test/prog.c.o: test/test_config.h
 CMakeFiles/echo_client.dir/test/prog.c.o: include/lsquic.h
 CMakeFiles/echo_client.dir/test/prog.c.o: include/lsquic_types.h
 
-CMakeFiles/echo_client.dir/test/test_cert.c.o: src/liblsquic/lsquic_hash.h
-CMakeFiles/echo_client.dir/test/test_cert.c.o: src/liblsquic/lsquic_logger.h
-CMakeFiles/echo_client.dir/test/test_cert.c.o: test/test_cert.c
-CMakeFiles/echo_client.dir/test/test_cert.c.o: test/test_cert.h
 CMakeFiles/echo_client.dir/test/test_cert.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/aead.h
 CMakeFiles/echo_client.dir/test/test_cert.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/asn1.h
 CMakeFiles/echo_client.dir/test/test_cert.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/base.h
@@ -109,6 +105,10 @@ CMakeFiles/echo_client.dir/test/test_cert.c.o: /home/aahan/MY-GIT-REPO/DevOps-Le
 CMakeFiles/echo_client.dir/test/test_cert.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/type_check.h
 CMakeFiles/echo_client.dir/test/test_cert.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/x509.h
 CMakeFiles/echo_client.dir/test/test_cert.c.o: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include/openssl/x509_vfy.h
+CMakeFiles/echo_client.dir/test/test_cert.c.o: src/liblsquic/lsquic_hash.h
+CMakeFiles/echo_client.dir/test/test_cert.c.o: src/liblsquic/lsquic_logger.h
+CMakeFiles/echo_client.dir/test/test_cert.c.o: test/test_cert.c
+CMakeFiles/echo_client.dir/test/test_cert.c.o: test/test_cert.h
 CMakeFiles/echo_client.dir/test/test_cert.c.o: include/lsquic.h
 CMakeFiles/echo_client.dir/test/test_cert.c.o: include/lsquic_types.h
 

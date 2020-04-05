@@ -1,4 +1,4 @@
-# Install script for directory: /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests
+# Install script for directory: /home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

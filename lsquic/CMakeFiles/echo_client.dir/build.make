@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aahan/LSQUIC-GIT-DEMO/lsquic
+CMAKE_SOURCE_DIR = /home/aahan/MY-GIT-REPO/NEW/lsquic
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aahan/LSQUIC-GIT-DEMO/lsquic
+CMAKE_BINARY_DIR = /home/aahan/MY-GIT-REPO/NEW/lsquic
 
 # Include any dependencies generated for this target.
 include CMakeFiles/echo_client.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/echo_client.dir/flags.make
 
 CMakeFiles/echo_client.dir/test/echo_client.c.o: CMakeFiles/echo_client.dir/flags.make
 CMakeFiles/echo_client.dir/test/echo_client.c.o: test/echo_client.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/echo_client.dir/test/echo_client.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/echo_client.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/echo_client.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/echo_client.dir/test/echo_client.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/echo_client.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/test/echo_client.c
 
 CMakeFiles/echo_client.dir/test/echo_client.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/echo_client.dir/test/echo_client.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/echo_client.c > CMakeFiles/echo_client.dir/test/echo_client.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/MY-GIT-REPO/NEW/lsquic/test/echo_client.c > CMakeFiles/echo_client.dir/test/echo_client.c.i
 
 CMakeFiles/echo_client.dir/test/echo_client.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/echo_client.dir/test/echo_client.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/echo_client.c -o CMakeFiles/echo_client.dir/test/echo_client.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/MY-GIT-REPO/NEW/lsquic/test/echo_client.c -o CMakeFiles/echo_client.dir/test/echo_client.c.s
 
 CMakeFiles/echo_client.dir/test/echo_client.c.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/echo_client.dir/test/echo_client.c.o.provides.build: CMakeFiles/echo_
 
 CMakeFiles/echo_client.dir/test/prog.c.o: CMakeFiles/echo_client.dir/flags.make
 CMakeFiles/echo_client.dir/test/prog.c.o: test/prog.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/echo_client.dir/test/prog.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/prog.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/prog.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/echo_client.dir/test/prog.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/prog.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/test/prog.c
 
 CMakeFiles/echo_client.dir/test/prog.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/echo_client.dir/test/prog.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/prog.c > CMakeFiles/echo_client.dir/test/prog.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/MY-GIT-REPO/NEW/lsquic/test/prog.c > CMakeFiles/echo_client.dir/test/prog.c.i
 
 CMakeFiles/echo_client.dir/test/prog.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/echo_client.dir/test/prog.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/prog.c -o CMakeFiles/echo_client.dir/test/prog.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/MY-GIT-REPO/NEW/lsquic/test/prog.c -o CMakeFiles/echo_client.dir/test/prog.c.s
 
 CMakeFiles/echo_client.dir/test/prog.c.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/echo_client.dir/test/prog.c.o.provides.build: CMakeFiles/echo_client.
 
 CMakeFiles/echo_client.dir/test/test_common.c.o: CMakeFiles/echo_client.dir/flags.make
 CMakeFiles/echo_client.dir/test/test_common.c.o: test/test_common.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/echo_client.dir/test/test_common.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/test_common.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_common.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/echo_client.dir/test/test_common.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/test_common.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_common.c
 
 CMakeFiles/echo_client.dir/test/test_common.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/echo_client.dir/test/test_common.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_common.c > CMakeFiles/echo_client.dir/test/test_common.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_common.c > CMakeFiles/echo_client.dir/test/test_common.c.i
 
 CMakeFiles/echo_client.dir/test/test_common.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/echo_client.dir/test/test_common.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_common.c -o CMakeFiles/echo_client.dir/test/test_common.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_common.c -o CMakeFiles/echo_client.dir/test/test_common.c.s
 
 CMakeFiles/echo_client.dir/test/test_common.c.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/echo_client.dir/test/test_common.c.o.provides.build: CMakeFiles/echo_
 
 CMakeFiles/echo_client.dir/test/test_cert.c.o: CMakeFiles/echo_client.dir/flags.make
 CMakeFiles/echo_client.dir/test/test_cert.c.o: test/test_cert.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/echo_client.dir/test/test_cert.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/test_cert.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_cert.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/echo_client.dir/test/test_cert.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/echo_client.dir/test/test_cert.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_cert.c
 
 CMakeFiles/echo_client.dir/test/test_cert.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/echo_client.dir/test/test_cert.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_cert.c > CMakeFiles/echo_client.dir/test/test_cert.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_cert.c > CMakeFiles/echo_client.dir/test/test_cert.c.i
 
 CMakeFiles/echo_client.dir/test/test_cert.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/echo_client.dir/test/test_cert.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_cert.c -o CMakeFiles/echo_client.dir/test/test_cert.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_cert.c -o CMakeFiles/echo_client.dir/test/test_cert.c.s
 
 CMakeFiles/echo_client.dir/test/test_cert.c.o.requires:
 
@@ -174,7 +174,7 @@ echo_client: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/ssl/libssl.a
 echo_client: /home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/crypto/libcrypto.a
 echo_client: /usr/lib/x86_64-linux-gnu/libz.a
 echo_client: CMakeFiles/echo_client.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable echo_client"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable echo_client"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/echo_client.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -194,6 +194,6 @@ CMakeFiles/echo_client.dir/clean:
 .PHONY : CMakeFiles/echo_client.dir/clean
 
 CMakeFiles/echo_client.dir/depend:
-	cd /home/aahan/LSQUIC-GIT-DEMO/lsquic && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/echo_client.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/aahan/MY-GIT-REPO/NEW/lsquic && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/echo_client.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/echo_client.dir/depend
 

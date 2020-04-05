@@ -6,5 +6,5 @@ C_FLAGS =   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/aahan/LSQUIC-GIT-DEMO/lsquic -I/home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include -I/home/aahan/LSQUIC-GIT-DEMO/lsquic/include -I/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/lshpack 
+C_INCLUDES = -I/home/aahan/MY-GIT-REPO/NEW/lsquic -I/home/aahan/MY-GIT-REPO/DevOps-Learning/boringssl/include -I/home/aahan/MY-GIT-REPO/NEW/lsquic/include -I/home/aahan/MY-GIT-REPO/NEW/lsquic/src/lshpack 
 

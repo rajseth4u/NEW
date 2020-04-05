@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_frame_chop.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_frame_chop.c
 assert.h
 -
 errno.h
@@ -26,23 +26,23 @@ getopt.h
 sys/queue.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 lshpack.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lshpack.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lshpack.h
 lsquic_logger.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_logger.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_logger.h
 lsquic_mm.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_mm.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_mm.h
 lsquic_frame_common.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_frame_common.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_frame_common.h
 lsquic_frame_writer.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_frame_writer.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_frame_writer.h
 lsquic_frame_reader.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_frame_reader.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_frame_reader.h
 lsquic_int_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_int_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_int_types.h
 lsquic_conn.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_conn.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_conn.h
 
 include/lsquic.h
 stdarg.h

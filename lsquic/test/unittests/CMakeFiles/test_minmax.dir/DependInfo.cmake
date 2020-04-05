@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_minmax.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/CMakeFiles/test_minmax.dir/__/__/src/liblsquic/lsquic_minmax.c.o"
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_minmax.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/CMakeFiles/test_minmax.dir/test_minmax.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_minmax.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/CMakeFiles/test_minmax.dir/__/__/src/liblsquic/lsquic_minmax.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_minmax.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/CMakeFiles/test_minmax.dir/test_minmax.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

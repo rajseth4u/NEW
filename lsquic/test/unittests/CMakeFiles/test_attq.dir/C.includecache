@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_attq.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_attq.c
 assert.h
 -
 stdlib.h
@@ -14,17 +14,17 @@ stdlib.h
 sys/queue.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 lsquic_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_types.h
 lsquic_int_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_int_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_int_types.h
 lsquic_attq.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_attq.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_attq.h
 lsquic_hash.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_hash.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_hash.h
 lsquic_conn.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_conn.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_conn.h
 
 include/lsquic.h
 stdarg.h

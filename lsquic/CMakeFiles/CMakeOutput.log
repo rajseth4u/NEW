@@ -10,28 +10,28 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/3.10.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "`pwd`/CMakeFiles/3.10.2/CompilerIdC/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_41885/fast"
 /usr/bin/make -f CMakeFiles/cmTC_41885.dir/build.make CMakeFiles/cmTC_41885.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_41885.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_41885.dir/testCCompiler.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp/testCCompiler.c
+/usr/bin/cc    -o CMakeFiles/cmTC_41885.dir/testCCompiler.c.o   -c `pwd`/CMakeFiles/CMakeTmp/testCCompiler.c
 Linking C executable cmTC_41885
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41885.dir/link.txt --verbose=1
 /usr/bin/cc      -rdynamic CMakeFiles/cmTC_41885.dir/testCCompiler.c.o  -o cmTC_41885 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_43f48/fast"
 /usr/bin/make -f CMakeFiles/cmTC_43f48.dir/build.make CMakeFiles/cmTC_43f48.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_43f48.dir/CMakeCCompilerABI.c.o
 /usr/bin/cc    -o CMakeFiles/cmTC_43f48.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
 Linking C executable cmTC_43f48
@@ -51,16 +51,16 @@ LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/..
 COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_43f48' '-mtune=generic' '-march=x86-64'
  /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cczSN2US.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_43f48 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_43f48.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
 COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_43f48' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: `pwd`/CMakeFiles/CMakeTmp]
   ignore line: []
   ignore line: [Run Build Command:"/usr/bin/make" "cmTC_43f48/fast"]
   ignore line: [/usr/bin/make -f CMakeFiles/cmTC_43f48.dir/build.make CMakeFiles/cmTC_43f48.dir/build]
-  ignore line: [make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp']
+  ignore line: [make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp']
   ignore line: [Building C object CMakeFiles/cmTC_43f48.dir/CMakeCCompilerABI.c.o]
   ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_43f48.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
   ignore line: [Linking C executable cmTC_43f48]
@@ -144,17 +144,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_a2f68/fast"
 /usr/bin/make -f CMakeFiles/cmTC_a2f68.dir/build.make CMakeFiles/cmTC_a2f68.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_a2f68.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_a2f68.dir/feature_tests.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/feature_tests.c
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_a2f68.dir/feature_tests.c.o   -c `pwd`/CMakeFiles/feature_tests.c
 Linking C executable cmTC_a2f68
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2f68.dir/link.txt --verbose=1
 /usr/bin/cc      -rdynamic CMakeFiles/cmTC_a2f68.dir/feature_tests.c.o  -o cmTC_a2f68 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -164,17 +164,17 @@ make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeT
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_49868/fast"
 /usr/bin/make -f CMakeFiles/cmTC_49868.dir/build.make CMakeFiles/cmTC_49868.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_49868.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_49868.dir/feature_tests.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/feature_tests.c
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_49868.dir/feature_tests.c.o   -c `pwd`/CMakeFiles/feature_tests.c
 Linking C executable cmTC_49868
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_49868.dir/link.txt --verbose=1
 /usr/bin/cc      -rdynamic CMakeFiles/cmTC_49868.dir/feature_tests.c.o  -o cmTC_49868 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -184,17 +184,17 @@ make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeT
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_8c3b6/fast"
 /usr/bin/make -f CMakeFiles/cmTC_8c3b6.dir/build.make CMakeFiles/cmTC_8c3b6.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_8c3b6.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_8c3b6.dir/feature_tests.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/feature_tests.c
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_8c3b6.dir/feature_tests.c.o   -c `pwd`/CMakeFiles/feature_tests.c
 Linking C executable cmTC_8c3b6
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c3b6.dir/link.txt --verbose=1
 /usr/bin/cc      -rdynamic CMakeFiles/cmTC_8c3b6.dir/feature_tests.c.o  -o cmTC_8c3b6 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -202,76 +202,76 @@ make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeT
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Performing C SOURCE FILE Test HAS_NO_IMPLICIT_FALLTHROUGH succeeded with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_f3818/fast"
 /usr/bin/make -f CMakeFiles/cmTC_f3818.dir/build.make CMakeFiles/cmTC_f3818.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_f3818.dir/src.c.o
-/usr/bin/cc   -DHAS_NO_IMPLICIT_FALLTHROUGH   -Wno-implicit-fallthrough -o CMakeFiles/cmTC_f3818.dir/src.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp/src.c
+/usr/bin/cc   -DHAS_NO_IMPLICIT_FALLTHROUGH   -Wno-implicit-fallthrough -o CMakeFiles/cmTC_f3818.dir/src.c.o   -c `pwd`/CMakeFiles/CMakeTmp/src.c
 Linking C executable cmTC_f3818
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f3818.dir/link.txt --verbose=1
 /usr/bin/cc  -DHAS_NO_IMPLICIT_FALLTHROUGH    -rdynamic CMakeFiles/cmTC_f3818.dir/src.c.o  -o cmTC_f3818 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 Source file was:
 int main(void) { return 0; }
 Determining if the function sendmmsg exists passed with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_ecb45/fast"
 /usr/bin/make -f CMakeFiles/cmTC_ecb45.dir/build.make CMakeFiles/cmTC_ecb45.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_ecb45.dir/CheckFunctionExists.c.o
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=sendmmsg   -o CMakeFiles/cmTC_ecb45.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
 Linking C executable cmTC_ecb45
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ecb45.dir/link.txt --verbose=1
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=sendmmsg    -rdynamic CMakeFiles/cmTC_ecb45.dir/CheckFunctionExists.c.o  -o cmTC_ecb45 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
 Determining if the function recvmmsg exists passed with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_98b65/fast"
 /usr/bin/make -f CMakeFiles/cmTC_98b65.dir/build.make CMakeFiles/cmTC_98b65.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_98b65.dir/CheckFunctionExists.c.o
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=recvmmsg   -o CMakeFiles/cmTC_98b65.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
 Linking C executable cmTC_98b65
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_98b65.dir/link.txt --verbose=1
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=recvmmsg    -rdynamic CMakeFiles/cmTC_98b65.dir/CheckFunctionExists.c.o  -o cmTC_98b65 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
 Determining if the function open_memstream exists passed with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_978ef/fast"
 /usr/bin/make -f CMakeFiles/cmTC_978ef.dir/build.make CMakeFiles/cmTC_978ef.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_978ef.dir/CheckFunctionExists.c.o
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=open_memstream   -o CMakeFiles/cmTC_978ef.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
 Linking C executable cmTC_978ef
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_978ef.dir/link.txt --verbose=1
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=open_memstream    -rdynamic CMakeFiles/cmTC_978ef.dir/CheckFunctionExists.c.o  -o cmTC_978ef 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
 
 Determining if the IP_MTU_DISCOVER exist passed with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_0d59b/fast"
 /usr/bin/make -f CMakeFiles/cmTC_0d59b.dir/build.make CMakeFiles/cmTC_0d59b.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_0d59b.dir/CheckSymbolExists.c.o
-/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror     -o CMakeFiles/cmTC_0d59b.dir/CheckSymbolExists.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror     -o CMakeFiles/cmTC_0d59b.dir/CheckSymbolExists.c.o   -c `pwd`/CMakeFiles/CMakeTmp/CheckSymbolExists.c
 Linking C executable cmTC_0d59b
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0d59b.dir/link.txt --verbose=1
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror      -rdynamic CMakeFiles/cmTC_0d59b.dir/CheckSymbolExists.c.o  -o cmTC_0d59b 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
 
-File /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File `pwd`/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <netinet/in.h>
 
@@ -287,16 +287,331 @@ int main(int argc, char** argv)
 }
 
 Determining if files regex.h exist passed with the following output:
-Change Dir: /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp
+Change Dir: `pwd`/CMakeFiles/CMakeTmp
 
 Run Build Command:"/usr/bin/make" "cmTC_0e389/fast"
 /usr/bin/make -f CMakeFiles/cmTC_0e389.dir/build.make CMakeFiles/cmTC_0e389.dir/build
-make[1]: Entering directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Entering directory '`pwd`/CMakeFiles/CMakeTmp'
 Building C object CMakeFiles/cmTC_0e389.dir/CheckIncludeFiles.c.o
-/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror     -o CMakeFiles/cmTC_0e389.dir/CheckIncludeFiles.c.o   -c /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror     -o CMakeFiles/cmTC_0e389.dir/CheckIncludeFiles.c.o   -c `pwd`/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
 Linking C executable cmTC_0e389
 /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0e389.dir/link.txt --verbose=1
 /usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror      -rdynamic CMakeFiles/cmTC_0e389.dir/CheckIncludeFiles.c.o  -o cmTC_0e389 
-make[1]: Leaving directory '/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '`pwd`/CMakeFiles/CMakeTmp'
+
+
+The system is: Linux - 4.15.0-91-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/3.10.2/CompilerIdC/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f877f/fast"
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_f877f.dir/build.make CMakeFiles/cmTC_f877f.dir/build
+make[2]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f877f.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_f877f.dir/testCCompiler.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_f877f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f877f.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_f877f.dir/testCCompiler.c.o  -o cmTC_f877f 
+make[2]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7f848/fast"
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_7f848.dir/build.make CMakeFiles/cmTC_7f848.dir/build
+make[2]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_7f848
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f848.dir/link.txt --verbose=1
+/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o  -o cmTC_7f848 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_7f848' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSTrlzT.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_7f848 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_7f848' '-mtune=generic' '-march=x86-64'
+make[2]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_7f848/fast"]
+  ignore line: [make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_7f848.dir/build.make CMakeFiles/cmTC_7f848.dir/build]
+  ignore line: [make[2]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_7f848]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f848.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o  -o cmTC_7f848 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_7f848' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSTrlzT.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_7f848 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccSTrlzT.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_7f848] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
+    arg [CMakeFiles/cmTC_7f848.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7] ==> [/usr/lib/gcc/x86_64-linux-gnu/7]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> [/usr/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/7;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d8c06/fast"
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_d8c06.dir/build.make CMakeFiles/cmTC_d8c06.dir/build
+make[2]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d8c06.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_d8c06.dir/feature_tests.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/feature_tests.c
+Linking C executable cmTC_d8c06
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8c06.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_d8c06.dir/feature_tests.c.o  -o cmTC_d8c06 
+make[2]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c3ba5/fast"
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_c3ba5.dir/build.make CMakeFiles/cmTC_c3ba5.dir/build
+make[2]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c3ba5.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_c3ba5.dir/feature_tests.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/feature_tests.c
+Linking C executable cmTC_c3ba5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c3ba5.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_c3ba5.dir/feature_tests.c.o  -o cmTC_c3ba5 
+make[2]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fb1b8/fast"
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_fb1b8.dir/build.make CMakeFiles/cmTC_fb1b8.dir/build
+make[2]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fb1b8.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_fb1b8.dir/feature_tests.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/feature_tests.c
+Linking C executable cmTC_fb1b8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fb1b8.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_fb1b8.dir/feature_tests.c.o  -o cmTC_fb1b8 
+make[2]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Performing C SOURCE FILE Test HAS_NO_IMPLICIT_FALLTHROUGH succeeded with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bdacf/fast"
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_bdacf.dir/build.make CMakeFiles/cmTC_bdacf.dir/build
+make[2]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bdacf.dir/src.c.o
+/usr/bin/cc   -DHAS_NO_IMPLICIT_FALLTHROUGH   -Wno-implicit-fallthrough -o CMakeFiles/cmTC_bdacf.dir/src.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_bdacf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bdacf.dir/link.txt --verbose=1
+/usr/bin/cc  -DHAS_NO_IMPLICIT_FALLTHROUGH    -rdynamic CMakeFiles/cmTC_bdacf.dir/src.c.o  -o cmTC_bdacf 
+make[2]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Determining if the function sendmmsg exists passed with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_afdb3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_afdb3.dir/build.make CMakeFiles/cmTC_afdb3.dir/build
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_afdb3.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=sendmmsg   -o CMakeFiles/cmTC_afdb3.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_afdb3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_afdb3.dir/link.txt --verbose=1
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=sendmmsg    -rdynamic CMakeFiles/cmTC_afdb3.dir/CheckFunctionExists.c.o  -o cmTC_afdb3 
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+Determining if the function recvmmsg exists passed with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a37b3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a37b3.dir/build.make CMakeFiles/cmTC_a37b3.dir/build
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a37b3.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=recvmmsg   -o CMakeFiles/cmTC_a37b3.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a37b3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a37b3.dir/link.txt --verbose=1
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=recvmmsg    -rdynamic CMakeFiles/cmTC_a37b3.dir/CheckFunctionExists.c.o  -o cmTC_a37b3 
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+Determining if the function open_memstream exists passed with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d48a0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d48a0.dir/build.make CMakeFiles/cmTC_d48a0.dir/build
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d48a0.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=open_memstream   -o CMakeFiles/cmTC_d48a0.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_d48a0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d48a0.dir/link.txt --verbose=1
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror  -DCHECK_FUNCTION_EXISTS=open_memstream    -rdynamic CMakeFiles/cmTC_d48a0.dir/CheckFunctionExists.c.o  -o cmTC_d48a0 
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+
+Determining if the IP_MTU_DISCOVER exist passed with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6df80/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6df80.dir/build.make CMakeFiles/cmTC_6df80.dir/build
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6df80.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror     -o CMakeFiles/cmTC_6df80.dir/CheckSymbolExists.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_6df80
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6df80.dir/link.txt --verbose=1
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror      -rdynamic CMakeFiles/cmTC_6df80.dir/CheckSymbolExists.c.o  -o cmTC_6df80 
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+
+File /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <netinet/in.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef IP_MTU_DISCOVER
+  return ((int*)(&IP_MTU_DISCOVER))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if files regex.h exist passed with the following output:
+Change Dir: /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ecc4b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ecc4b.dir/build.make CMakeFiles/cmTC_ecc4b.dir/build
+make[1]: Entering directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ecc4b.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror     -o CMakeFiles/cmTC_ecc4b.dir/CheckIncludeFiles.c.o   -c /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTC_ecc4b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ecc4b.dir/link.txt --verbose=1
+/usr/bin/cc   -DLSQUIC_DEBUG_NEXT_ADV_TICK=1 -Wall -Wextra -Wno-unused-parameter -fno-omit-frame-pointer -Wno-implicit-fallthrough -Wno-missing-field-initializers -O0 -g3 -Werror      -rdynamic CMakeFiles/cmTC_ecc4b.dir/CheckIncludeFiles.c.o  -o cmTC_ecc4b 
+make[1]: Leaving directory '/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/CMakeTmp'
 
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic
+# Install script for directory: /home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

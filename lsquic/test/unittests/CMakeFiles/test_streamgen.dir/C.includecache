@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_streamgen.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_streamgen.c
 assert.h
 -
 stdio.h
@@ -20,21 +20,21 @@ sys/queue.h
 sys/time.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 lsquic_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_types.h
 lsquic_parse.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_parse.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_parse.h
 lsquic_sfcw.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_sfcw.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_sfcw.h
 lsquic_varint.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_varint.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_varint.h
 lsquic_hq.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_hq.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_hq.h
 lsquic_hash.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_hash.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_hash.h
 lsquic_stream.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_stream.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_stream.h
 
 include/lsquic.h
 stdarg.h

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_alarmset.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_alarmset.c
 assert.h
 -
 stdio.h
@@ -18,11 +18,11 @@ string.h
 sys/queue.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 lsquic_packet_common.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_packet_common.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_packet_common.h
 lsquic_alarmset.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_alarmset.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_alarmset.h
 
 include/lsquic.h
 stdarg.h

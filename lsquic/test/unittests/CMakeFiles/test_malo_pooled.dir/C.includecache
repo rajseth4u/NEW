@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/fiu-local.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/fiu-local.h
 fiu.h
 -
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_malo.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_malo.c
 assert.h
 -
 errno.h
@@ -26,13 +26,13 @@ vc_compat.h
 intrin.h
 -
 fiu-local.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/fiu-local.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/fiu-local.h
 lsquic_malo.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_malo.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_malo.h
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_malo.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_malo.h
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_malo.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_malo.c
 assert.h
 -
 stdint.h
@@ -46,7 +46,7 @@ unistd.h
 getopt.h
 -
 lsquic_malo.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_malo.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_malo.h
 
 test/unittests/../../src/liblsquic/lsquic_malo.h
 

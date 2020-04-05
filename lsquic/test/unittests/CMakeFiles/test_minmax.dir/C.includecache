@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_minmax.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_minmax.c
 stdint.h
 -
 string.h
 -
 lsquic_minmax.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_minmax.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_minmax.h
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/lsquic_minmax.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/lsquic_minmax.h
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_minmax.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_minmax.c
 assert.h
 -
 stdint.h
@@ -24,7 +24,7 @@ stdint.h
 string.h
 -
 lsquic_minmax.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_minmax.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_minmax.h
 
 test/unittests/../../src/liblsquic/lsquic_minmax.h
 

@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/md5_client.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/md5_client.dir/test/md5_client.c.o"
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/prog.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/md5_client.dir/test/prog.c.o"
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_cert.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/md5_client.dir/test/test_cert.c.o"
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/test_common.c" "/home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/md5_client.dir/test/test_common.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/md5_client.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/md5_client.dir/test/md5_client.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/prog.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/md5_client.dir/test/prog.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_cert.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/md5_client.dir/test/test_cert.c.o"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/test/test_common.c" "/home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/md5_client.dir/test/test_common.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -21,7 +21,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/liblsquic/CMakeFiles/lsquic.dir/DependInfo.cmake"
+  "/home/aahan/MY-GIT-REPO/NEW/lsquic/src/liblsquic/CMakeFiles/lsquic.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

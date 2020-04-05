@@ -1,4 +1,4 @@
-# Install script for directory: /home/aahan/LSQUIC-GIT-DEMO/lsquic
+# Install script for directory: /home/aahan/MY-GIT-REPO/NEW/lsquic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/aahan/LSQUIC-GIT-DEMO/lsquic/src/cmake_install.cmake")
-  include("/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/cmake_install.cmake")
+  include("/home/aahan/MY-GIT-REPO/NEW/lsquic/src/cmake_install.cmake")
+  include("/home/aahan/MY-GIT-REPO/NEW/lsquic/test/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/aahan/LSQUIC-GIT-DEMO/lsquic/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/aahan/MY-GIT-REPO/NEW/lsquic/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

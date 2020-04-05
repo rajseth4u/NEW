@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_varint.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_varint.c
 assert.h
 -
 stddef.h
@@ -14,7 +14,7 @@ stddef.h
 stdint.h
 -
 lsquic_varint.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_varint.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_varint.h
 
 test/unittests/../../src/liblsquic/lsquic_varint.h
 

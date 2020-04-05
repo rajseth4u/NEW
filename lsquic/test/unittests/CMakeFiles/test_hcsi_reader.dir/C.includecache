@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_hcsi_reader.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_hcsi_reader.c
 assert.h
 -
 inttypes.h
@@ -20,19 +20,19 @@ stdio.h
 sys/queue.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 lsquic_int_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_int_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_int_types.h
 lsquic_varint.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_varint.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_varint.h
 lsquic_hq.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_hq.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_hq.h
 lsquic_hcsi_reader.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_hcsi_reader.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_hcsi_reader.h
 lsquic_hash.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_hash.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_hash.h
 lsquic_conn.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_conn.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_conn.h
 
 include/lsquic.h
 stdarg.h

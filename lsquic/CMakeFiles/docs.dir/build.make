@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aahan/LSQUIC-GIT-DEMO/lsquic
+CMAKE_SOURCE_DIR = /home/aahan/MY-GIT-REPO/NEW/lsquic
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aahan/LSQUIC-GIT-DEMO/lsquic
+CMAKE_BINARY_DIR = /home/aahan/MY-GIT-REPO/NEW/lsquic
 
 # Utility rule file for docs.
 
@@ -71,6 +71,6 @@ CMakeFiles/docs.dir/clean:
 .PHONY : CMakeFiles/docs.dir/clean
 
 CMakeFiles/docs.dir/depend:
-	cd /home/aahan/LSQUIC-GIT-DEMO/lsquic && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic /home/aahan/LSQUIC-GIT-DEMO/lsquic/CMakeFiles/docs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/aahan/MY-GIT-REPO/NEW/lsquic && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic /home/aahan/MY-GIT-REPO/NEW/lsquic/CMakeFiles/docs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/docs.dir/depend
 

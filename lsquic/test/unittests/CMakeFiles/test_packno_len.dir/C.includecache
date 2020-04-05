@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/test_packno_len.c
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/test_packno_len.c
 assert.h
 -
 stdio.h
@@ -20,13 +20,13 @@ sys/queue.h
 sys/time.h
 -
 lsquic.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic.h
 lsquic_types.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_types.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_types.h
 lsquic_packet_common.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_packet_common.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_packet_common.h
 lsquic_parse.h
-/home/aahan/LSQUIC-GIT-DEMO/lsquic/test/unittests/lsquic_parse.h
+/home/aahan/MY-GIT-REPO/NEW/lsquic/test/unittests/lsquic_parse.h
 
 include/lsquic.h
 stdarg.h

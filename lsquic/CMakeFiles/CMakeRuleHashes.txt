@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+42ee97a7987f803aa3e37ebf69c07aae CMakeFiles/docs
+660bcfae4e9cfbb8f55a6f37bc0b20a2 src/liblsquic/lsquic_versions_to_string.c
